@@ -1,4 +1,4 @@
-# 🌸 Hi there, I'm Hana Minaleshewa
+I'm Hana Minaleshewa
 
 Welcome to my GitHub space! I'm a curious and committed **Computer Science student** with a growing passion for **Software Development**, **Infrastructure**, and **Documentation**.
 
@@ -16,7 +16,6 @@ I'm currently doing an internship where I'm learning real-world skills like depl
 
 ### 🛠️ Tools & Technologies
 - **Git & GitHub** – for version control and collaboration
-- **Linux (Basics)** – working with the terminal, shell commands
 - **Docker** (learning)
 - **Kubernetes (K8s)** – exploring it during my internship
 - **Markdown** – for writing clean, simple documentation
@@ -32,7 +31,6 @@ I'm currently doing an internship where I'm learning real-world skills like depl
 ## 🌱 Currently Learning
 - How to deploy services in real environments (like **eSignet On-Prem**)
 - Writing professional technical documentation from scratch
-- Understanding networking, DNS, Nginx, Kubernetes clusters, and more
 - Becoming more confident in real development environments
 
 ---
