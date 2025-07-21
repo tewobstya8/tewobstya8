@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space! I'm a curious and committed **Computer Science student** with a growing passion for **Software Development**, **Infrastructure**, and **Documentation**.
 
-I'm currently doing an internship where I'm learning real-world skills like deployment, networking, and writing beginner-friendly technical guides. My journey may have just started — but I'm giving it my all every day 🚀.
+I'm currently doing an internship where I'm learning real-world skills like deployment, networking, and writing beginner-friendly technical guides. My journey may have just started — but I'm giving it my all every day .
 
 ---
 
@@ -43,10 +43,10 @@ I'm currently writing a full beginner-style documentation for **eSignet On-Prem 
 
 ---
 
-## 🤝 Let’s Connect!
+##  Let’s Connect!
 I’m always open to learning, improving, and connecting with kind, curious people.
 
-- 💼 LinkedIn: *(Add your link here)*
-- 📬 Email: *(Add your email if you want to share it)*
+-  LinkedIn: *(www.linkedin.com/in/hana-minaleshewa-04b29a350)*
+  - Email: *(hamaminaleshewa144@gmail.com)*
 
 Thanks for passing by my GitHub profile! I hope you find something helpful, inspiring, or simply honest here 💙
