@@ -2,10 +2,6 @@
 
 Welcome to my GitHub space! I'm a curious and committed **Computer Science student** with a growing passion for **Software Development**, **Infrastructure**, and **Documentation**.
 
-I'm currently doing an internship where I'm learning real-world skills like deployment, networking, and writing beginner-friendly technical guides. My journey may have just started — but I'm giving it my all every day .
-
-
-
 ## My Skills
 
 ###  Programming Languages
