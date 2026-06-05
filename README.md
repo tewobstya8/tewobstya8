@@ -1,7 +1,7 @@
 
 ## About Me
 
-I'm Hana Minaleshewa, a Computer Science student with an interest in software development, web technologies, UI/UX design, and system infrastructure. I enjoy building practical solutions and improving my skills through hands-on learning.
+I'm Hana Minaleshewa, a Computer Science student interested in learning software development, web design, and basic system technologies. I'm still building my skills through practice and small projects.
 
 ---
 
@@ -9,35 +9,29 @@ I'm Hana Minaleshewa, a Computer Science student with an interest in software de
 
 **Programming**
 
-* Python – problem solving and backend logic
-* Java – object-oriented programming
-* JavaScript – interactive web development
+* Python – basic problem solving
+* Java – learning fundamentals
+* JavaScript – beginner level
 
-**Web & Design**
+**Web**
 
-* HTML & CSS – responsive web design
-* UI/UX – interface design and usability basics
-* Graphic Design – visual layout and simple design work
+* HTML & CSS – simple webpage design
 
-**Tools & Technologies**
+**Tools**
 
-* Git & GitHub – version control and collaboration
-* Docker – container basics
-* Kubernetes – introductory infrastructure concepts
-* Markdown – documentation writing
+* Git & GitHub – basic version control
+* Markdown – writing simple documentation
 
 ---
 
 ## Interests
 
-* Web development and UI/UX design
-* Software development and system infrastructure
-* Technical documentation and writing
-* Cloud and distributed systems
-* Team collaboration and project work
+* Learning web development and UI/UX basics
+* Improving programming and problem-solving skills
+* Exploring software development and systems
+* Building small projects to gain experience
 
 ---
-
 
 
 ##  Let’s Connect!
