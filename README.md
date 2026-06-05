@@ -1,39 +1,43 @@
-# I'm Hana Minaleshewa
 
-Welcome to my GitHub space! I'm a curious and committed **Computer Science student** with a growing passion for **Software Development**, **Infrastructure**, and **Documentation**.
+## About Me
 
-## My Skills
+I'm Hana Minaleshewa, a Computer Science student with an interest in software development, web technologies, UI/UX design, and system infrastructure. I enjoy building practical solutions and improving my skills through hands-on learning.
 
-###  Programming Languages
-- **Python** – my go-to for learning logic and solving problems
-- **Java** – learning to build structured, object-oriented applications
-- **HTML & CSS** – used to design basic webpages
-- **JavaScript** – just starting, and excited to learn more!
+---
 
-### Tools & Technologies
-- **Git & GitHub** – for version control and collaboration
-- **Docker** (learning)
-- **Kubernetes (K8s)** – exploring it during my internship
-- **Markdown** – for writing clean, simple documentation
+## Skills
 
-### Soft Skills
-- Clear and beginner-friendly documentation writing
-- Eager to learn and ask questions
-- Honest, hardworking, and detail-focused
-- Able to explain technical steps simply
+**Programming**
 
+* Python – problem solving and backend logic
+* Java – object-oriented programming
+* JavaScript – interactive web development
 
-## Currently Learning
-- How to deploy services in real environments (like **eSignet On-Prem**)
-- Writing professional technical documentation from scratch
-- Becoming more confident in real development environments
+**Web & Design**
 
+* HTML & CSS – responsive web design
+* UI/UX – interface design and usability basics
+* Graphic Design – visual layout and simple design work
 
-## What I'm Working On
-I'm currently writing a full beginner-style documentation for **eSignet On-Prem Installation** at DPI. My goal is to make it:
-- Clear for both developers and non-technical users
-- Step-by-step and easy to follow
-- Something my supervisor and team can be proud of
+**Tools & Technologies**
+
+* Git & GitHub – version control and collaboration
+* Docker – container basics
+* Kubernetes – introductory infrastructure concepts
+* Markdown – documentation writing
+
+---
+
+## Interests
+
+* Web development and UI/UX design
+* Software development and system infrastructure
+* Technical documentation and writing
+* Cloud and distributed systems
+* Team collaboration and project work
+
+---
+
 
 
 ##  Let’s Connect!
